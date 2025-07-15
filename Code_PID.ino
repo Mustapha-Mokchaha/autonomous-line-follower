@@ -108,5 +108,5 @@ void loop() {
   Serial.print(" Right Speed: ");
   Serial.println(rightSpeed);
 
-  delay(10); // Delay for loop
+  delay(10); //Delay for loop
 }
